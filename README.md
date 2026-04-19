@@ -15,4 +15,4 @@ npm start
 npm run deploy
 ```
 
-Le site sera disponible sur : https://mouhamedx74.github.io/portfolio
+Le site sera disponible sur : https://mouhamedx74.github.io/portfolie
